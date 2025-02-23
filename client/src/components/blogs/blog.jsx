@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Typography, Divider, Grid, Card, CardMedia, CardContent, Box } from "@mui/material";
+import { Container, Typography, Divider, Grid, Card, CardMedia,  Box } from "@mui/material";
 import sunset from "../../data/sunset.jpeg";
 import scenic from "../../data/scenic.jpeg";
 
