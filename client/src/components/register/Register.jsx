@@ -12,7 +12,7 @@ const RegisterPage = () => {
         alignItems: "center",
         justifyContent: "center",
         px: 2,
-        marginTop: "64px",
+        // marginTop: "64px",
       }}
     >
       <Box

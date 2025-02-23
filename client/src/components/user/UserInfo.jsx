@@ -22,7 +22,7 @@ const techniques = [
 
 const UserInfo = () => {
     return (
-        <Container sx={{ textAlign: "center", mt: 4 }}>
+        <Container sx={{ textAlign: "center", mt: 4 , minWidth: "80%"}}>
             {/* Header Section */}
             <Box sx={{ mb: 4 }}>
                 <Typography variant="h4" gutterBottom>
@@ -53,7 +53,7 @@ const UserInfo = () => {
             </Box>
 
             {/* Saved Techniques Section */}
-            <Box sx={{ bgcolor: "#6D4C41", p: 2,  borderRadius: 2}}>
+            <Box sx={{ bgcolor: "#6D4C41", p: 2}}>
                 <Typography variant="h5" color="white" gutterBottom>
                     Saved Techniques
                 </Typography>
